@@ -1,0 +1,17 @@
+{
+    "name": "StockWatcher",
+    "short_name": "StockWatcher",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "StockWatcher PWA",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "StockWatcher-icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
